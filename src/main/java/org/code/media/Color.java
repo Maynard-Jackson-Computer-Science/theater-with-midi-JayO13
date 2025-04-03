@@ -1,4 +1,4 @@
-package org.code.media;
+ package org.code.media;
 
 import java.util.Map;
 
